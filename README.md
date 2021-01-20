@@ -1,1 +1,3 @@
-# learn-redux
+# Learn Redux
+
+A simple React + Redux implementation.
